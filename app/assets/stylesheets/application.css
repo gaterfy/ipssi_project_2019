@@ -13,15 +13,15 @@
  *= require_tree .
  *= require_self
  */
- @import "blog";
- @import "bootstrap";
- @import "boostrap.min";
- @import "custom";
- @import "fullcalendar.print";
- /*@import "style";*/
+/*@import "blog";
+@import "bootstrap";
+@import "boostrap.min";
+@import "custom";
+@import "fullcalendar.print";
+@import "style";
  @import "tables";
  @import "vendors.unminified.css";
- @import "wizard";
+ @import "wizard";*/
 
  .img-logo{
    width: 149px;
